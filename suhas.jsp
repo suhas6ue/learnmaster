@@ -1,5 +1,5 @@
 suhas is learning git
-vimla is chotu
+vimla is nannu
 suhas is nice
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
